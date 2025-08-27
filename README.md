@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudante de Back-end com Python <br>
   💻 Foco em APIs, Bancos de Dados e Análise de Dados <br>
-  🌱 Atualmente aprendendo Django, FastAPI e Pandas
+  🌱 Atualmente aprendendo Django, PostgreSQL, SQL
 </p>
 
 ---
@@ -16,7 +16,7 @@
   ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff69b4)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff69b4)
   ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff69b4)
-  ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ff69b4)
+  ![Pandas](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=ff69b4)
 
 </div>
 
