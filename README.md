@@ -19,7 +19,14 @@
   ![Pandas](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=ff69b4)
 
 </div>
+<div align="center">
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 ---
 
 ## 📂 Projetos em destaque
@@ -40,10 +47,10 @@
   <img height="165" src="https://streak-stats.demolab.com?user=mayalvesmartins&theme=radical"/>
 
   <!-- Linguagens -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalvesmartins&layout=compact&theme=radical"/>
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalvesmartins&layout=compact&theme=radical"/>-->
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mayalvesmartins&theme=radical&row=1&column=6"/>
+   <!-- <img src="https://github-profile-trophy.vercel.app/?username=mayalvesmartins&theme=radical&row=1&column=6"/> -->
 
 </div>
 
@@ -54,10 +61,5 @@
 - ✉️ Email: mayalvesmartins@gmail.com
 - GITHUB: https://github.com/Mayalvesmartins
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
 
 
